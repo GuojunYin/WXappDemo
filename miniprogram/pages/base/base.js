@@ -16,7 +16,8 @@ Page({
         age: 12
       }
     ],
-    isLogin:false
+    isLogin:false,
+    github:"test"
   },
 
   /**
