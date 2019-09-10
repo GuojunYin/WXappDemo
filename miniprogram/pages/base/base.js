@@ -16,7 +16,7 @@ Page({
         age: 12
       }
     ],
-    isLogin:false,
+    isLogin:true,
     test:false
   },
 
