@@ -1,0 +1,7 @@
+/* pages/base/base.wxss */
+@import "../../style/common.wxss";
+.box{
+  width: 100rpx;
+  height: 100rpx;
+  background-color: #ccc
+}
