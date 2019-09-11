@@ -9,3 +9,5 @@
 <view wx:else>请登录</view>
 <view hidden="{{isLogin}}">hidden</view>
 <view class="box"></view>  
+<button size="mini" bindtap="onHandle">点我加一</button>
+<view>{{count}}</view>

@@ -16,10 +16,15 @@ Page({
         age: 12
       }
     ],
-    isLogin:false,
-    github:"test"
+    isLogin: false,
+    github: "test",
+    count: 0
   },
-
+  onHandle: function() {
+    this.setData({
+      count: this.data.count + 1
+    })
+  },
   /**
    * 生命周期函数--监听页面加载
    */

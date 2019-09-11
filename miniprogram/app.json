@@ -13,17 +13,20 @@
   "tabBar": {
     "color": "#ccc",
     "selectedColor": "#f00",
-    "list": [{
-      "pagePath": "pages/base/base",
-      "text": "基础",
-      "iconPath": "images/menu.png",
-      "selectedIconPath": "images/menu-active.png"
-    },
-    {
-      "pagePath": "pages/cloud/cloud",
-      "text": "云开发",
-      "iconPath": "images/cloud.png",
-      "selectedIconPath": "images/cloud-active.png"
-    }]
-  }
+    "list": [
+      {
+        "pagePath": "pages/base/base",
+        "text": "基础",
+        "iconPath": "images/menu.png",
+        "selectedIconPath": "images/menu-active.png"
+      },
+      {
+        "pagePath": "pages/cloud/cloud",
+        "text": "云开发",
+        "iconPath": "images/cloud.png",
+        "selectedIconPath": "images/cloud-active.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap71.json"
 }
